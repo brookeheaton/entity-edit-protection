@@ -1,0 +1,9 @@
+name = Entity Edit Protection
+description = Protect the user against navigating away from an entity or entityform edit form before saving their changes.
+core = 7.x
+
+version = "7.x-1.0"
+core = "7.x"
+project = "entity_edit_protection"
+datestamp = "1387203506"
+
