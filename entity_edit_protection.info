@@ -6,3 +6,5 @@ core = "7.x"
 project = "entity_edit_protection"
 datestamp = "1441381845"
 
+dependencies[] = ckeditor
+
